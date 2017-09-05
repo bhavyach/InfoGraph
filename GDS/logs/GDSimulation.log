@@ -1,0 +1,18 @@
+2015-12-06 22:15:13.282 [main] INFO  cmu.edu.capstone.gd.simulation.execution.CommandLineExecutor:116 - File: config.properties exists
+2015-12-06 22:15:13.285 [main] INFO  cmu.edu.capstone.gd.simulation.execution.CommandLineExecutor:153 - Configuration file found: config.properties
+2015-12-06 22:15:13.286 [main] INFO  cmu.edu.capstone.gd.simulation.execution.CommandLineExecutor:116 - File: simplemodel.graphml exists
+2015-12-06 22:15:13.286 [main] INFO  cmu.edu.capstone.gd.simulation.execution.CommandLineExecutor:192 - Input file found: simplemodel.graphml
+2015-12-06 22:15:13.287 [main] INFO  cmu.edu.capstone.gd.simulation.utilities.SimulationProperties:25 - Configuration File :config.properties fetched.
+2015-12-06 22:15:13.292 [main] INFO  cmu.edu.capstone.gd.simulation.execution.CommandLineExecutor:201 - Simulation run count fetched: 100
+2015-12-06 22:15:13.399 [main] INFO  cmu.edu.capstone.gd.simulation.parser.GraphMLToGraph:46 - Root element :graphml
+2015-12-06 22:15:13.410 [main] INFO  cmu.edu.capstone.gd.simulation.parser.GraphMLToGraph:50 - Number of Nodes: 77
+2015-12-06 22:15:13.589 [main] INFO  cmu.edu.capstone.gd.simulation.parser.GraphMLToGraph:103 - Number of Edges: 132
+2015-12-06 22:19:11.767 [main] INFO  cmu.edu.capstone.gd.simulation.execution.CommandLineExecutor:117 - File: config.properties exists
+2015-12-06 22:19:11.769 [main] INFO  cmu.edu.capstone.gd.simulation.execution.CommandLineExecutor:154 - Configuration file found: config.properties
+2015-12-06 22:19:11.769 [main] INFO  cmu.edu.capstone.gd.simulation.execution.CommandLineExecutor:117 - File: simplemodel.graphml exists
+2015-12-06 22:19:11.770 [main] INFO  cmu.edu.capstone.gd.simulation.execution.CommandLineExecutor:193 - Input file found: simplemodel.graphml
+2015-12-06 22:19:11.770 [main] INFO  cmu.edu.capstone.gd.simulation.utilities.SimulationProperties:25 - Configuration File :config.properties fetched.
+2015-12-06 22:19:11.774 [main] INFO  cmu.edu.capstone.gd.simulation.execution.CommandLineExecutor:202 - Simulation run count fetched: 100
+2015-12-06 22:19:11.838 [main] INFO  cmu.edu.capstone.gd.simulation.parser.GraphMLToGraph:46 - Root element :graphml
+2015-12-06 22:19:11.849 [main] INFO  cmu.edu.capstone.gd.simulation.parser.GraphMLToGraph:50 - Number of Nodes: 77
+2015-12-06 22:19:11.944 [main] INFO  cmu.edu.capstone.gd.simulation.parser.GraphMLToGraph:103 - Number of Edges: 132
